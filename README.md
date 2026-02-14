@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wabi Tena</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;AI+Systems+Architect;Competitive+Programmer">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CEO+%26+Founder+at+ASTUYE;Software+Engineer+at+WabiAI+Agentic+PLC;President+of+ASTU+STEM+Center;President+of+DEvUs+Development;AI+Systems+Architect">
 </p>
 
 <p align="center">
@@ -11,8 +11,22 @@
 
 ---
 
-### ⚡ Quick Pitch
-I am a **Software Engineering Student at ASTU** obsessed with building scalable, high-impact systems. My journey is fueled by a blend of **Competitive Programming** rigor and **Full-Stack Development** creativity. I don't just write code; I design solutions that bridge the gap between AI and real-world utility.
+### 🏛️ Professional Leadership & Experience
+> *Driving innovation at the intersection of leadership and autonomous intelligence.*
+
+* **CEO & Founder | ASTUYE Platform**
+    * Architecting a comprehensive digital ecosystem tailored for the ASTU community.
+* **Software Engineer & Team Leader | WabiAI Agentic PLC**
+    * Leading engineering teams to build sophisticated Agentic AI systems and autonomous workflows.
+* **President | ASTU STEM Center**
+    * Directing strategic initiatives to advance STEM education and research excellence at the university level.
+* **President | DEvUs Development**
+    * Managing a high-performance developer community focused on rapid software deployment and peer-to-peer mentorship.
+
+---
+
+### ⚡ Executive Summary
+I am a **Software Engineering Student at ASTU** and a multi-org leader obsessed with building scalable, high-impact systems. My journey is fueled by a blend of **Competitive Programming** rigor and **Entrepreneurial** vision. I don't just write code; I design intelligent ecosystems that bridge the gap between AI and real-world utility.
 
 ---
 
@@ -23,35 +37,36 @@ I am a **Software Engineering Student at ASTU** obsessed with building scalable,
     <td align="center" width="25%"><strong>Languages</strong></td>
     <td align="center" width="25%"><strong>Frontend</strong></td>
     <td align="center" width="25%"><strong>Backend/DB</strong></td>
-    <td align="center" width="25%"><strong>Core</strong></td>
+    <td align="center" width="25%"><strong>Core & AI</strong></td>
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css" />
+      <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,linux,docker,postman" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Key Initiatives
-> Highlighting my expertise in Fintech, AI, and Management Systems.
+### 🚀 Key Initiatives & Projects
 
+* **WabiAI Agentic Workflows** | *Agentic AI*
+    * Developing autonomous AI agents to streamline complex business logic and decision-making.
 * **Taxi QR Payment System** | *Fintech*
-    * Revolutionizing local transit payments using secure QR-based transactions.
-* **AI-Powered Study Platform** | *Artificial Intelligence*
-    * Leveraging LLMs to personalize student learning paths.
-* **Enterprise Management** | *Systems*
-    * Architected Clinic and School Management Systems focused on data integrity and UX.
+    * Revolutionizing local transit payments using secure, high-concurrency QR transactions.
+* **ASTUYE Ecosystem** | *SaaS*
+    * Building a centralized platform for academic and community resources.
+* **Enterprise Management Systems** | *Systems Architecture*
+    * Architected Clinic and School Management Systems focused on data integrity and high-availability UX.
 
 ---
 
@@ -68,9 +83,9 @@ I am a **Software Engineering Student at ASTU** obsessed with building scalable,
 ---
 
 ### 🧠 Strategic Focus
-- **Current Research:** Advanced System Design & Distributed Architecture.
-- **Problem Solving:** Active on Codeforces/LeetCode (sharpening logic for elite engineering).
-- **Vision:** Building the next generation of AI-driven SaaS platforms.
+- **Current Research:** Agentic AI Frameworks, Distributed Systems, and Microservices.
+- **Problem Solving:** Competitive Programming (Codeforces/LeetCode) to maintain architectural precision.
+- **Vision:** Transforming WabiAI and ASTUYE into global benchmarks for intelligent software.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
